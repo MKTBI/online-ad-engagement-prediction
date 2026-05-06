@@ -2,9 +2,6 @@
 
 > Predicting whether a user will click on an online advertisement based on cursor movement patterns, session behavior, and ad metadata — using Decision Tree, Random Forest, and MLP classifiers.
 
-📄 Based on MSc Dissertation — *Predictive Modeling and Data Analytics for User Interaction*
-🏫 International Business School / University of Buckingham · 2024
-
 ---
 
 ## 📌 Project Overview
